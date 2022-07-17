@@ -1,5 +1,7 @@
 # ServiceNow Fundamentals Simulator (San Diego)
 
+Table of contents
+
 - [Instance Help](./ServiceNow/ServiceNow-fundamentals-simulator/instance-help.md)
 - [Next Experience Unified Navigation  Activity](./ServiceNow/ServiceNow-fundamentals-simulator/next-experience-unified-navigation-activity.md)
 - [Lists and Filters Activity](./ServiceNow/ServiceNow-fundamentals-simulator/lists-and-filters-activity.md)
