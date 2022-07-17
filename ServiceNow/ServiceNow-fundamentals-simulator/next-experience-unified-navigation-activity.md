@@ -1,4 +1,4 @@
-# Next Experience Unified Navigation  Activity
+# Next Experience Unified Navigation Activity
 
 - Impersonate Abel Tuter
   - Click on **profile** and choose **Impersonate user**
